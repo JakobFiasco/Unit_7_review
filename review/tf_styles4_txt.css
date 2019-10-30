@@ -23,6 +23,9 @@
 
 /* General Flex Styles */
 
+body{
+   display: flex
+}
 
 
 
@@ -33,7 +36,9 @@
    ===============================
 */
 	
-
+@media{
+   max-width: 480px;
+}
 
 
 
